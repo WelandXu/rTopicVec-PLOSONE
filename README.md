@@ -7,4 +7,4 @@ PONE-D-22-12180
 A supervised topic embedding model and its application
 ## Datasets
 ### Stock price return prediction
-ReutersJP contains preprocessed documents paired with stock price returns.
+ReutersJP contains preprocessed documents associated with stock price returns.
